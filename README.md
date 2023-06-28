@@ -2,7 +2,9 @@
 # **Image Recognition using Various Known Predefined Models**
 For this purpose of study I have selected to model which are widely popular and known as well.
 - TensorFlow Kera
-- Pytorch (using YOLO)
+- YOLO
+
+  
 Both of Them are good and well implemented model which can be used for faster processing and development.
 
 ## Keras
@@ -27,7 +29,6 @@ The model is trained using a "bipartite matching loss": one compares the predict
 
 More you can Read it ![Here](https://huggingface.co/hustvl/yolos-tiny)
 
-Below are Implenetation code for both of the algorithms.
 
 ## Result
 - Input Image used for this
@@ -42,4 +43,5 @@ Below are Implenetation code for both of the algorithms.
 
 ## Conclusion
 
-But **TensorFlow Kera** has found out to be better model than the YOLO.
+**TensorFlow Kera** has shown better overall result as compared to other algorithms.
+You can see with the screenshot atached.
