@@ -41,7 +41,3 @@ More you can Read it ![Here](https://huggingface.co/hustvl/yolos-tiny)
 - YOLO
 ![Screenshot from 2023-06-28 18-03-52](https://github.com/shubhamashish33/image-recognition/assets/78084828/8319b66f-d8ef-4634-88ce-209051293b77)
 
-## Conclusion
-
-**TensorFlow Kera** has shown better overall result as compared to other algorithms.
-You can see with the screenshot atached.
